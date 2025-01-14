@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(0, 0, 0, 0.91);
+    color: whitesmoke;
+}
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: lightgrey;
+}
+a:hover, a:active{
+    color: aquamarine;
+}
+mark{
+    background-color: rgb(77, 247, 253);
+}
+table tr, th, td, caption{
+    border: 1px solid whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
